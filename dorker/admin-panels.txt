@@ -1,8 +1,693 @@
-inurl:admin/login
+intitle:"Access Login"
 intitle:"Admin Login"
-inurl:wp-admin
+intitle:"Admin_area Login"
+intitle:"Administrator Login"
+intitle:"Adminpanel Login"
+intitle:"Auth Login"
+intitle:"Auth-login Login"
+intitle:"Backend Login"
+intitle:"Cms Login"
+intitle:"Control Panel"
+intitle:"Controlpanel Login"
+intitle:"Cpanel Login"
+intitle:"Dashboard Login"
+intitle:"Login Login"
+intitle:"Manage Login"
+intitle:"Management Login"
+intitle:"Moderator Login"
+intitle:"Panel Login"
+intitle:"Portal Login"
+intitle:"Secure Login"
+intitle:"Sign-in Login"
+intitle:"Signin Login"
+intitle:"Siteadmin Login"
+intitle:"System Login"
+intitle:"User Login"
+intitle:"Userpanel Login"
+inurl:access
+inurl:access/admin.php
+inurl:access/admin/index.php
+inurl:access/admin/login.php
+inurl:access/admin_area/login.php
+inurl:access/admin_login.php
+inurl:access/administrator/login.php
+inurl:access/adminpanel/login.php
+inurl:access/cpanel
+inurl:access/cpanel/login.php
+inurl:access/index.php
+inurl:access/login
+inurl:access/login.php
+inurl:admin
+inurl:admin+admin.php
+inurl:admin+admin/index.php
+inurl:admin+admin/login.php
+inurl:admin+admin_area/login.php
+inurl:admin+admin_login.php
+inurl:admin+administrator/login.php
+inurl:admin+adminpanel/login.php
+inurl:admin+cpanel
+inurl:admin+cpanel/login.php
+inurl:admin+index.php
+inurl:admin+login
+inurl:admin+login.php
+inurl:admin.php?action=login
+inurl:admin/admin.php
+inurl:admin/admin/index.php
+inurl:admin/admin/login.php
+inurl:admin/admin_area/login.php
+inurl:admin/admin_login.php
+inurl:admin/administrator/login.php
+inurl:admin/adminpanel/login.php
+inurl:admin/cpanel
+inurl:admin/cpanel/login.php
+inurl:admin/index.php
+inurl:admin/login
+inurl:admin/login.php
+inurl:admin_area
+inurl:admin_area+admin.php
+inurl:admin_area+admin/index.php
+inurl:admin_area+admin/login.php
+inurl:admin_area+admin_area/login.php
+inurl:admin_area+admin_login.php
+inurl:admin_area+administrator/login.php
+inurl:admin_area+adminpanel/login.php
+inurl:admin_area+cpanel
+inurl:admin_area+cpanel/login.php
+inurl:admin_area+index.php
+inurl:admin_area+login
+inurl:admin_area+login.php
+inurl:admin_area/admin.php
+inurl:admin_area/admin/index.php
+inurl:admin_area/admin/login.php
+inurl:admin_area/admin_area/login.php
+inurl:admin_area/admin_login.php
+inurl:admin_area/administrator/login.php
+inurl:admin_area/adminpanel/login.php
+inurl:admin_area/cpanel
+inurl:admin_area/cpanel/login.php
+inurl:admin_area/index.php
+inurl:admin_area/login
+inurl:admin_area/login.php
+inurl:administrator
+inurl:administrator+admin.php
+inurl:administrator+admin/index.php
+inurl:administrator+admin/login.php
+inurl:administrator+admin_area/login.php
+inurl:administrator+admin_login.php
+inurl:administrator+administrator/login.php
+inurl:administrator+adminpanel/login.php
+inurl:administrator+cpanel
+inurl:administrator+cpanel/login.php
+inurl:administrator+index.php
+inurl:administrator+login
+inurl:administrator+login.php
+inurl:administrator/admin.php
+inurl:administrator/admin/index.php
+inurl:administrator/admin/login.php
+inurl:administrator/admin_area/login.php
+inurl:administrator/admin_login.php
+inurl:administrator/administrator/login.php
+inurl:administrator/adminpanel/login.php
+inurl:administrator/cpanel
+inurl:administrator/cpanel/login.php
+inurl:administrator/index.php
 inurl:administrator/login
-inurl:admin.php
-inurl:login.asp
-inurl:login.jsp
-"Index of /admin"
+inurl:administrator/login.php
+inurl:adminpanel
+inurl:adminpanel+admin.php
+inurl:adminpanel+admin/index.php
+inurl:adminpanel+admin/login.php
+inurl:adminpanel+admin_area/login.php
+inurl:adminpanel+admin_login.php
+inurl:adminpanel+administrator/login.php
+inurl:adminpanel+adminpanel/login.php
+inurl:adminpanel+cpanel
+inurl:adminpanel+cpanel/login.php
+inurl:adminpanel+index.php
+inurl:adminpanel+login
+inurl:adminpanel+login.php
+inurl:adminpanel/admin.php
+inurl:adminpanel/admin/index.php
+inurl:adminpanel/admin/login.php
+inurl:adminpanel/admin_area/login.php
+inurl:adminpanel/admin_login.php
+inurl:adminpanel/administrator/login.php
+inurl:adminpanel/adminpanel/login.php
+inurl:adminpanel/cpanel
+inurl:adminpanel/cpanel/login.php
+inurl:adminpanel/index.php
+inurl:adminpanel/login
+inurl:adminpanel/login.php
+inurl:auth
+inurl:auth-login
+inurl:auth-login/admin.php
+inurl:auth-login/admin/index.php
+inurl:auth-login/admin/login.php
+inurl:auth-login/admin_area/login.php
+inurl:auth-login/admin_login.php
+inurl:auth-login/administrator/login.php
+inurl:auth-login/adminpanel/login.php
+inurl:auth-login/cpanel
+inurl:auth-login/cpanel/login.php
+inurl:auth-login/index.php
+inurl:auth-login/login
+inurl:auth-login/login.php
+inurl:auth/admin.php
+inurl:auth/admin/index.php
+inurl:auth/admin/login.php
+inurl:auth/admin_area/login.php
+inurl:auth/admin_login.php
+inurl:auth/administrator/login.php
+inurl:auth/adminpanel/login.php
+inurl:auth/cpanel
+inurl:auth/cpanel/login.php
+inurl:auth/index.php
+inurl:auth/login
+inurl:auth/login.php
+inurl:backend
+inurl:backend+admin.php
+inurl:backend+admin/index.php
+inurl:backend+admin/login.php
+inurl:backend+admin_area/login.php
+inurl:backend+admin_login.php
+inurl:backend+administrator/login.php
+inurl:backend+adminpanel/login.php
+inurl:backend+cpanel
+inurl:backend+cpanel/login.php
+inurl:backend+index.php
+inurl:backend+login
+inurl:backend+login.php
+inurl:backend/admin.php
+inurl:backend/admin/index.php
+inurl:backend/admin/login.php
+inurl:backend/admin_area/login.php
+inurl:backend/admin_login.php
+inurl:backend/administrator/login.php
+inurl:backend/adminpanel/login.php
+inurl:backend/cpanel
+inurl:backend/cpanel/login.php
+inurl:backend/index.php
+inurl:backend/login
+inurl:backend/login.php
+inurl:cms
+inurl:cms+admin.php
+inurl:cms+admin/index.php
+inurl:cms+admin/login.php
+inurl:cms+admin_area/login.php
+inurl:cms+admin_login.php
+inurl:cms+administrator/login.php
+inurl:cms+adminpanel/login.php
+inurl:cms+cpanel
+inurl:cms+cpanel/login.php
+inurl:cms+index.php
+inurl:cms+login
+inurl:cms+login.php
+inurl:cms/admin.php
+inurl:cms/admin/index.php
+inurl:cms/admin/login.php
+inurl:cms/admin_area/login.php
+inurl:cms/admin_login.php
+inurl:cms/administrator/login.php
+inurl:cms/adminpanel/login.php
+inurl:cms/cpanel
+inurl:cms/cpanel/login.php
+inurl:cms/index.php
+inurl:cms/login
+inurl:cms/login.php
+inurl:controlpanel
+inurl:controlpanel+admin.php
+inurl:controlpanel+admin/index.php
+inurl:controlpanel+admin/login.php
+inurl:controlpanel+admin_area/login.php
+inurl:controlpanel+admin_login.php
+inurl:controlpanel+administrator/login.php
+inurl:controlpanel+adminpanel/login.php
+inurl:controlpanel+cpanel
+inurl:controlpanel+cpanel/login.php
+inurl:controlpanel+index.php
+inurl:controlpanel+login
+inurl:controlpanel+login.php
+inurl:controlpanel/admin.php
+inurl:controlpanel/admin/index.php
+inurl:controlpanel/admin/login.php
+inurl:controlpanel/admin_area/login.php
+inurl:controlpanel/admin_login.php
+inurl:controlpanel/administrator/login.php
+inurl:controlpanel/adminpanel/login.php
+inurl:controlpanel/cpanel
+inurl:controlpanel/cpanel/login.php
+inurl:controlpanel/index.php
+inurl:controlpanel/login
+inurl:controlpanel/login.php
+inurl:cpanel
+inurl:cpanel+admin.php
+inurl:cpanel+admin/index.php
+inurl:cpanel+admin/login.php
+inurl:cpanel+admin_area/login.php
+inurl:cpanel+admin_login.php
+inurl:cpanel+administrator/login.php
+inurl:cpanel+adminpanel/login.php
+inurl:cpanel+cpanel
+inurl:cpanel+cpanel/login.php
+inurl:cpanel+index.php
+inurl:cpanel+login
+inurl:cpanel+login.php
+inurl:cpanel/admin.php
+inurl:cpanel/admin/index.php
+inurl:cpanel/admin/login.php
+inurl:cpanel/admin_area/login.php
+inurl:cpanel/admin_login.php
+inurl:cpanel/administrator/login.php
+inurl:cpanel/adminpanel/login.php
+inurl:cpanel/cpanel
+inurl:cpanel/cpanel/login.php
+inurl:cpanel/index.php
+inurl:cpanel/login
+inurl:cpanel/login.php
+inurl:dashboard
+inurl:dashboard+admin.php
+inurl:dashboard+admin/index.php
+inurl:dashboard+admin/login.php
+inurl:dashboard+admin_area/login.php
+inurl:dashboard+admin_login.php
+inurl:dashboard+administrator/login.php
+inurl:dashboard+adminpanel/login.php
+inurl:dashboard+cpanel
+inurl:dashboard+cpanel/login.php
+inurl:dashboard+index.php
+inurl:dashboard+login
+inurl:dashboard+login.php
+inurl:dashboard/admin.php
+inurl:dashboard/admin/index.php
+inurl:dashboard/admin/login.php
+inurl:dashboard/admin_area/login.php
+inurl:dashboard/admin_login.php
+inurl:dashboard/administrator/login.php
+inurl:dashboard/adminpanel/login.php
+inurl:dashboard/cpanel
+inurl:dashboard/cpanel/login.php
+inurl:dashboard/index.php
+inurl:dashboard/login
+inurl:dashboard/login.php
+inurl:login
+inurl:login+admin.php
+inurl:login+admin/index.php
+inurl:login+admin/login.php
+inurl:login+admin_area/login.php
+inurl:login+admin_login.php
+inurl:login+administrator/login.php
+inurl:login+adminpanel/login.php
+inurl:login+cpanel
+inurl:login+cpanel/login.php
+inurl:login+index.php
+inurl:login+login
+inurl:login+login.php
+inurl:login.php?action=admin
+inurl:login.php?admin=true
+inurl:login/admin.php
+inurl:login/admin/index.php
+inurl:login/admin/login.php
+inurl:login/admin_area/login.php
+inurl:login/admin_login.php
+inurl:login/administrator/login.php
+inurl:login/adminpanel/login.php
+inurl:login/cpanel
+inurl:login/cpanel/login.php
+inurl:login/index.php
+inurl:login/login
+inurl:login/login.php
+inurl:manage
+inurl:manage+admin.php
+inurl:manage+admin/index.php
+inurl:manage+admin/login.php
+inurl:manage+admin_area/login.php
+inurl:manage+admin_login.php
+inurl:manage+administrator/login.php
+inurl:manage+adminpanel/login.php
+inurl:manage+cpanel
+inurl:manage+cpanel/login.php
+inurl:manage+index.php
+inurl:manage+login
+inurl:manage+login.php
+inurl:manage/admin.php
+inurl:manage/admin/index.php
+inurl:manage/admin/login.php
+inurl:manage/admin_area/login.php
+inurl:manage/admin_login.php
+inurl:manage/administrator/login.php
+inurl:manage/adminpanel/login.php
+inurl:manage/cpanel
+inurl:manage/cpanel/login.php
+inurl:manage/index.php
+inurl:manage/login
+inurl:manage/login.php
+inurl:moderator
+inurl:moderator+admin.php
+inurl:moderator+admin/index.php
+inurl:moderator+admin/login.php
+inurl:moderator+admin_area/login.php
+inurl:moderator+admin_login.php
+inurl:moderator+administrator/login.php
+inurl:moderator+adminpanel/login.php
+inurl:moderator+cpanel
+inurl:moderator+cpanel/login.php
+inurl:moderator+index.php
+inurl:moderator+login
+inurl:moderator+login.php
+inurl:moderator/admin.php
+inurl:moderator/admin/index.php
+inurl:moderator/admin/login.php
+inurl:moderator/admin_area/login.php
+inurl:moderator/admin_login.php
+inurl:moderator/administrator/login.php
+inurl:moderator/adminpanel/login.php
+inurl:moderator/cpanel
+inurl:moderator/cpanel/login.php
+inurl:moderator/index.php
+inurl:moderator/login
+inurl:moderator/login.php
+inurl:panel
+inurl:panel+admin.php
+inurl:panel+admin/index.php
+inurl:panel+admin/login.php
+inurl:panel+admin_area/login.php
+inurl:panel+admin_login.php
+inurl:panel+administrator/login.php
+inurl:panel+adminpanel/login.php
+inurl:panel+cpanel
+inurl:panel+cpanel/login.php
+inurl:panel+index.php
+inurl:panel+login
+inurl:panel+login.php
+inurl:panel/admin.php
+inurl:panel/admin/index.php
+inurl:panel/admin/login.php
+inurl:panel/admin_area/login.php
+inurl:panel/admin_login.php
+inurl:panel/administrator/login.php
+inurl:panel/adminpanel/login.php
+inurl:panel/cpanel
+inurl:panel/cpanel/login.php
+inurl:panel/index.php
+inurl:panel/login
+inurl:panel/login.php
+inurl:portal
+inurl:portal+admin.php
+inurl:portal+admin/index.php
+inurl:portal+admin/login.php
+inurl:portal+admin_area/login.php
+inurl:portal+admin_login.php
+inurl:portal+administrator/login.php
+inurl:portal+adminpanel/login.php
+inurl:portal+cpanel
+inurl:portal+cpanel/login.php
+inurl:portal+index.php
+inurl:portal+login
+inurl:portal+login.php
+inurl:portal/admin.php
+inurl:portal/admin/index.php
+inurl:portal/admin/login.php
+inurl:portal/admin_area/login.php
+inurl:portal/admin_login.php
+inurl:portal/administrator/login.php
+inurl:portal/adminpanel/login.php
+inurl:portal/cpanel
+inurl:portal/cpanel/login.php
+inurl:portal/index.php
+inurl:portal/login
+inurl:portal/login.php
+inurl:secure
+inurl:secure/admin.php
+inurl:secure/admin/index.php
+inurl:secure/admin/login.php
+inurl:secure/admin_area/login.php
+inurl:secure/admin_login.php
+inurl:secure/administrator/login.php
+inurl:secure/adminpanel/login.php
+inurl:secure/cpanel
+inurl:secure/cpanel/login.php
+inurl:secure/index.php
+inurl:secure/login
+inurl:secure/login.php
+inurl:sign-in
+inurl:sign-in/admin.php
+inurl:sign-in/admin/index.php
+inurl:sign-in/admin/login.php
+inurl:sign-in/admin_area/login.php
+inurl:sign-in/admin_login.php
+inurl:sign-in/administrator/login.php
+inurl:sign-in/adminpanel/login.php
+inurl:sign-in/cpanel
+inurl:sign-in/cpanel/login.php
+inurl:sign-in/index.php
+inurl:sign-in/login
+inurl:sign-in/login.php
+inurl:signin
+inurl:signin/admin.php
+inurl:signin/admin/index.php
+inurl:signin/admin/login.php
+inurl:signin/admin_area/login.php
+inurl:signin/admin_login.php
+inurl:signin/administrator/login.php
+inurl:signin/adminpanel/login.php
+inurl:signin/cpanel
+inurl:signin/cpanel/login.php
+inurl:signin/index.php
+inurl:signin/login
+inurl:signin/login.php
+inurl:siteadmin
+inurl:siteadmin/admin.php
+inurl:siteadmin/admin/index.php
+inurl:siteadmin/admin/login.php
+inurl:siteadmin/admin_area/login.php
+inurl:siteadmin/admin_login.php
+inurl:siteadmin/administrator/login.php
+inurl:siteadmin/adminpanel/login.php
+inurl:siteadmin/cpanel
+inurl:siteadmin/cpanel/login.php
+inurl:siteadmin/index.php
+inurl:siteadmin/login
+inurl:siteadmin/login.php
+inurl:system
+inurl:system+admin.php
+inurl:system+admin/index.php
+inurl:system+admin/login.php
+inurl:system+admin_area/login.php
+inurl:system+admin_login.php
+inurl:system+administrator/login.php
+inurl:system+adminpanel/login.php
+inurl:system+cpanel
+inurl:system+cpanel/login.php
+inurl:system+index.php
+inurl:system+login
+inurl:system+login.php
+inurl:system/admin.php
+inurl:system/admin/index.php
+inurl:system/admin/login.php
+inurl:system/admin_area/login.php
+inurl:system/admin_login.php
+inurl:system/administrator/login.php
+inurl:system/adminpanel/login.php
+inurl:system/cpanel
+inurl:system/cpanel/login.php
+inurl:system/index.php
+inurl:system/login
+inurl:system/login.php
+inurl:user
+inurl:user+admin.php
+inurl:user+admin/index.php
+inurl:user+admin/login.php
+inurl:user+admin_area/login.php
+inurl:user+admin_login.php
+inurl:user+administrator/login.php
+inurl:user+adminpanel/login.php
+inurl:user+cpanel
+inurl:user+cpanel/login.php
+inurl:user+index.php
+inurl:user+login
+inurl:user+login.php
+inurl:user/admin.php
+inurl:user/admin/index.php
+inurl:user/admin/login.php
+inurl:user/admin_area/login.php
+inurl:user/admin_login.php
+inurl:user/administrator/login.php
+inurl:user/adminpanel/login.php
+inurl:user/cpanel
+inurl:user/cpanel/login.php
+inurl:user/index.php
+inurl:user/login
+inurl:user/login.php
+inurl:userpanel
+inurl:userpanel/admin.php
+inurl:userpanel/admin/index.php
+inurl:userpanel/admin/login.php
+inurl:userpanel/admin_area/login.php
+inurl:userpanel/admin_login.php
+inurl:userpanel/administrator/login.php
+inurl:userpanel/adminpanel/login.php
+inurl:userpanel/cpanel
+inurl:userpanel/cpanel/login.php
+inurl:userpanel/index.php
+inurl:userpanel/login
+inurl:userpanel/login.php
+site:.id inurl:admin
+site:ac.id inurl:admin/login.php
+site:co.id inurl:adminpanel
+site:go.id inurl:administrator/login
+site:or.id inurl:admin_area
+site:sch.id inurl:admin.php
+site:web.id inurl:cpanel
+site:gov.id inurl:login.php?action=admin
+site:.id inurl:admin_login
+site:ac.id inurl:admin/index.php
+site:co.id intitle:"Admin Login"
+site:go.id inurl:manage
+site:or.id inurl:controlpanel
+site:sch.id inurl:adminpanel/login
+site:web.id inurl:wp-admin
+site:gov.id inurl:admin_area/login.php
+site:.my inurl:admin
+site:edu.my inurl:admin/login.php
+site:gov.my inurl:adminpanel
+site:org.my inurl:administrator/login
+site:.my inurl:admin_area
+site:edu.my inurl:admin.php
+site:gov.my inurl:cpanel
+site:org.my inurl:login.php?action=admin
+site:.my inurl:admin_login
+site:edu.my inurl:admin/index.php
+site:gov.my intitle:"Admin Login"
+site:org.my inurl:manage
+site:.my inurl:controlpanel
+site:edu.my inurl:adminpanel/login
+site:gov.my inurl:wp-admin
+site:org.my inurl:admin_area/login.php
+site:.sg inurl:admin
+site:edu.sg inurl:admin/login.php
+site:gov.sg inurl:adminpanel
+site:org.sg inurl:administrator/login
+site:.sg inurl:admin_area
+site:edu.sg inurl:admin.php
+site:gov.sg inurl:cpanel
+site:org.sg inurl:login.php?action=admin
+site:.sg inurl:admin_login
+site:edu.sg inurl:admin/index.php
+site:gov.sg intitle:"Admin Login"
+site:org.sg inurl:manage
+site:.sg inurl:controlpanel
+site:edu.sg inurl:adminpanel/login
+site:gov.sg inurl:wp-admin
+site:org.sg inurl:admin_area/login.php
+site:.ph inurl:admin
+site:edu.ph inurl:admin/login.php
+site:gov.ph inurl:adminpanel
+site:org.ph inurl:administrator/login
+site:.ph inurl:admin_area
+site:edu.ph inurl:admin.php
+site:gov.ph inurl:cpanel
+site:org.ph inurl:login.php?action=admin
+site:.ph inurl:admin_login
+site:edu.ph inurl:admin/index.php
+site:gov.ph intitle:"Admin Login"
+site:org.ph inurl:manage
+site:.ph inurl:controlpanel
+site:edu.ph inurl:adminpanel/login
+site:gov.ph inurl:wp-admin
+site:org.ph inurl:admin_area/login.php
+site:.th inurl:admin
+site:ac.th inurl:admin/login.php
+site:go.th inurl:adminpanel
+site:.th inurl:administrator/login
+site:ac.th inurl:admin_area
+site:go.th inurl:admin.php
+site:.th inurl:cpanel
+site:ac.th inurl:login.php?action=admin
+site:go.th inurl:admin_login
+site:.th inurl:admin/index.php
+site:ac.th intitle:"Admin Login"
+site:go.th inurl:manage
+site:.th inurl:controlpanel
+site:ac.th inurl:adminpanel/login
+site:go.th inurl:wp-admin
+site:.th inurl:admin_area/login.php
+site:.vn inurl:admin
+site:edu.vn inurl:admin/login.php
+site:gov.vn inurl:adminpanel
+site:.vn inurl:administrator/login
+site:edu.vn inurl:admin_area
+site:gov.vn inurl:admin.php
+site:.vn inurl:cpanel
+site:edu.vn inurl:login.php?action=admin
+site:gov.vn inurl:admin_login
+site:.vn inurl:admin/index.php
+site:edu.vn intitle:"Admin Login"
+site:gov.vn inurl:manage
+site:.vn inurl:controlpanel
+site:edu.vn inurl:adminpanel/login
+site:gov.vn inurl:wp-admin
+site:.vn inurl:admin_area/login.php
+site:.in inurl:admin
+site:edu.in inurl:admin/login.php
+site:gov.in inurl:adminpanel
+site:.in inurl:administrator/login
+site:edu.in inurl:admin_area
+site:gov.in inurl:admin.php
+site:.in inurl:cpanel
+site:edu.in inurl:login.php?action=admin
+site:gov.in inurl:admin_login
+site:.in inurl:admin/index.php
+site:edu.in intitle:"Admin Login"
+site:gov.in inurl:manage
+site:.in inurl:controlpanel
+site:edu.in inurl:adminpanel/login
+site:gov.in inurl:wp-admin
+site:.in inurl:admin_area/login.php
+site:.pk inurl:admin
+site:edu.pk inurl:admin/login.php
+site:gov.pk inurl:adminpanel
+site:.pk inurl:administrator/login
+site:edu.pk inurl:admin_area
+site:gov.pk inurl:admin.php
+site:.pk inurl:cpanel
+site:edu.pk inurl:login.php?action=admin
+site:gov.pk inurl:admin_login
+site:.pk inurl:admin/index.php
+site:edu.pk intitle:"Admin Login"
+site:gov.pk inurl:manage
+site:.pk inurl:controlpanel
+site:edu.pk inurl:adminpanel/login
+site:gov.pk inurl:wp-admin
+site:.pk inurl:admin_area/login.php
+site:.bd inurl:admin
+site:edu.bd inurl:admin/login.php
+site:gov.bd inurl:adminpanel
+site:.bd inurl:administrator/login
+site:edu.bd inurl:admin_area
+site:gov.bd inurl:admin.php
+site:.bd inurl:cpanel
+site:edu.bd inurl:login.php?action=admin
+site:gov.bd inurl:admin_login
+site:.bd inurl:admin/index.php
+site:edu.bd intitle:"Admin Login"
+site:gov.bd inurl:manage
+site:.bd inurl:controlpanel
+site:edu.bd inurl:adminpanel/login
+site:gov.bd inurl:wp-admin
+site:.bd inurl:admin_area/login.php
+site:.sa inurl:admin
+site:.ae inurl:admin/login.php
+site:.qa inurl:adminpanel
+site:.om inurl:administrator/login
+site:.bh inurl:admin_area
+site:.jo inurl:admin.php
+site:.sa inurl:cpanel
+site:.ae inurl:login.php?action=admin
+site:.qa inurl:admin_login
+site:.om inurl:admin/index.php
+site:.bh intitle:"Admin Login"
+site:.jo inurl:manage
+site:.sa inurl:controlpanel
+site:.ae inurl:adminpanel/login
+site:.qa inurl:wp-admin
+site:.om inurl:admin_area/login.php
