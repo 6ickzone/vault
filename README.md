@@ -1,4 +1,4 @@
-# Vault - Hacker's Arsenal
+# Vault - 
 
 This repository contains a collection of useful resources for penetration testing and security research.
 
