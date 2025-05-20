@@ -1,0 +1,8 @@
+inurl:admin/login
+intitle:"Admin Login"
+inurl:wp-admin
+inurl:administrator/login
+inurl:admin.php
+inurl:login.asp
+inurl:login.jsp
+"Index of /admin"

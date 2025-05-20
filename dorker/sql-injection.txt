@@ -1,0 +1,6 @@
+inurl:index.php?id=
+inurl:product.php?id=
+inurl:page.php?id=
+inurl:news.php?id=
+inurl:article.php?id=
+inurl:catalog.php?item=

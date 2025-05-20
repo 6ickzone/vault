@@ -1,0 +1,5 @@
+../../../../etc/passwd
+../../../../../../etc/passwd
+../../../../../../../../etc/passwd
+../../../../windows/win.ini
+../../../../../../../../windows/win.ini
