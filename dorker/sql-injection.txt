@@ -1,6 +1,487 @@
-inurl:index.php?id=
-inurl:product.php?id=
-inurl:page.php?id=
-inurl:news.php?id=
-inurl:article.php?id=
+basic inurl SQLi
 inurl:catalog.php?item=
+inurl:index.php?id=
+inurl:page.php?id=
+inurl:product.php?id=
+inurl:view.php?id=
+inurl:item.php?id=
+inurl:detail.php?id=
+inurl:shop.php?id=
+inurl:article.php?id=
+inurl:news.php?id=
+inurl:post.php?id=
+inurl:read.php?id=
+inurl:content.php?id=
+inurl:info.php?id=
+inurl:profile.php?id=
+inurl:download.php?id=
+inurl:catalog.php?id=
+inurl:store.php?id=
+inurl:gallery.php?id=
+inurl:event.php?id=
+inurl:forum.php?id=
+inurl:topic.php?id=
+inurl:thread.php?id=
+inurl:report.php?id=
+inurl:order.php?id=
+inurl:user.php?id=
+inurl:cart.php?id=
+inurl:checkout.php?id=
+inurl:search.php?id=
+inurl:support.php?id=
+inurl:faq.php?id=
+inurl:blog.php?id=
+inurl:review.php?id=
+inurl:service.php?id=
+inurl:download.php?id=
+inurl:media.php?id=
+inurl:video.php?id=
+inurl:photo.php?id=
+inurl:file.php?id=
+inurl:message.php?id=
+inurl:notification.php?id=
+inurl:setting.php?id=
+inurl:account.php?id=
+inurl:admin.php?id=
+inurl:login.php?id=
+inurl:register.php?id=
+inurl:reset.php?id=
+inurl:confirm.php?id=
+inurl:submit.php?id=
+inurl:vote.php?id=
+inurl:comment.php?id=
+inurl:subscribe.php?id=
+inurl:report.php?id=
+inurl:alert.php?id=
+inurl:profile.php?id=
+inurl:dashboard.php?id=
+inurl:panel.php?id=
+inurl:member.php?id=
+inurl:contact.php?id=
+inurl:feedback.php?id=
+inurl:newsletter.php?id=
+inurl:order_detail.php?id=
+inurl:payment.php?id=
+inurl:invoice.php?id=
+inurl:history.php?id=
+inurl:transaction.php?id=
+inurl:tracking.php?id=
+inurl:shipment.php?id=
+inurl:delivery.php?id=
+inurl:sales.php?id=
+inurl:inventory.php?id=
+inurl:stock.php?id=
+inurl:warehouse.php?id=
+inurl:product_detail.php?id=
+inurl:category.php?id=
+inurl:tag.php?id=
+inurl:brand.php?id=
+inurl:faq_detail.php?id=
+inurl:terms.php?id=
+inurl:privacy.php?id=
+inurl:policy.php?id=
+inurl:agreement.php?id=
+inurl:license.php?id=
+inurl:download_file.php?id=
+inurl:attachment.php?id=
+inurl:resource.php?id=
+inurl:library.php?id=
+inurl:document.php?id=
+inurl:manual.php?id=
+inurl:guide.php?id=
+inurl:tutorial.php?id=
+inurl:help.php?id=
+inurl:faq_page.php?id=
+inurl:forum_thread.php?id=
+inurl:forum_post.php?id=
+inurl:blog_post.php?id=
+inurl:news_article.php?id=
+inurl:event_detail.php?id=
+inurl:gallery_image.php?id=
+inurl:media_file.php?id=
+inurl:video_file.php?id=
+inurl:photo_album.php?id?
+Error based SQLi
+"You have an error in your SQL syntax" inurl:index.php?id=
+"Warning: mysql_fetch_assoc()" inurl:page.php?id=
+"Warning: mysql_num_rows()" inurl:product.php?id=
+"supplied argument is not a valid MySQL result" inurl:view.php?id=
+"Unclosed quotation mark after the character string" inurl:item.php?id=
+"Microsoft OLE DB Provider for SQL Server" inurl:detail.php?id=
+"Warning: pg_fetch_array()" inurl:shop.php?id=
+"Query failed" inurl:article.php?id=
+"Call to undefined function" inurl:news.php?id=
+"unexpected T_STRING" inurl:post.php?id=
+"You have an error in your SQL syntax" inurl:read.php?id=
+"Warning: mysql_fetch_assoc()" inurl:content.php?id=
+"Warning: mysql_num_rows()" inurl:info.php?id=
+"supplied argument is not a valid MySQL result" inurl:profile.php?id=
+"Unclosed quotation mark after the character string" inurl:download.php?id=
+"Microsoft OLE DB Provider for SQL Server" inurl:catalog.php?id=
+"Warning: pg_fetch_array()" inurl:store.php?id=
+"Query failed" inurl:gallery.php?id=
+"Call to undefined function" inurl:event.php?id=
+"unexpected T_STRING" inurl:forum.php?id=
+"You have an error in your SQL syntax" inurl:topic.php?id=
+"Warning: mysql_fetch_assoc()" inurl:thread.php?id=
+"Warning: mysql_num_rows()" inurl:report.php?id=
+"supplied argument is not a valid MySQL result" inurl:order.php?id=
+"Unclosed quotation mark after the character string" inurl:user.php?id=
+"Microsoft OLE DB Provider for SQL Server" inurl:cart.php?id=
+"Warning: pg_fetch_array()" inurl:checkout.php?id=
+"Query failed" inurl:search.php?id=
+"Call to undefined function" inurl:support.php?id=
+"unexpected T_STRING" inurl:faq.php?id=
+"You have an error in your SQL syntax" inurl:blog.php?id=
+"Warning: mysql_fetch_assoc()" inurl:review.php?id=
+"Warning: mysql_num_rows()" inurl:service.php?id=
+"supplied argument is not a valid MySQL result" inurl:download.php?id=
+"Unclosed quotation mark after the character string" inurl:media.php?id=
+"Microsoft OLE DB Provider for SQL Server" inurl:video.php?id=
+"Warning: pg_fetch_array()" inurl:photo.php?id=
+"Query failed" inurl:file.php?id=
+"Call to undefined function" inurl:message.php?id=
+"unexpected T_STRING" inurl:notification.php?id=
+CMS & Plugin + Error-based
+inurl:"/wp-content/plugins/" "You have an error in your SQL syntax"
+inurl:"/wp-content/plugins/" "Warning: mysql_fetch_assoc()"
+inurl:"/wp-content/plugins/" "Warning: mysql_num_rows()"
+inurl:"/wp-content/plugins/" "supplied argument is not a valid MySQL result"
+inurl:"/wp-content/plugins/" "Unclosed quotation mark after the character string"
+inurl:"/wp-content/plugins/" "Microsoft OLE DB Provider for SQL Server"
+inurl:"/wp-content/plugins/" "Warning: pg_fetch_array()"
+inurl:"/wp-content/plugins/" "Query failed"
+inurl:"/wp-content/plugins/" "Call to undefined function"
+inurl:"/wp-content/plugins/" "unexpected T_STRING"
+inurl:"/joomla/" "You have an error in your SQL syntax"
+inurl:"/joomla/" "Warning: mysql_fetch_assoc()"
+inurl:"/joomla/" "Warning: mysql_num_rows()"
+inurl:"/joomla/" "supplied argument is not a valid MySQL result"
+inurl:"/joomla/" "Unclosed quotation mark after the character string"
+inurl:"/joomla/" "Microsoft OLE DB Provider for SQL Server"
+inurl:"/joomla/" "Warning: pg_fetch_array()"
+inurl:"/joomla/" "Query failed"
+inurl:"/joomla/" "Call to undefined function"
+inurl:"/joomla/" "unexpected T_STRING"
+inurl:"/com_content/" "You have an error in your SQL syntax"
+inurl:"/com_content/" "Warning: mysql_fetch_assoc()"
+inurl:"/com_content/" "Warning: mysql_num_rows()"
+inurl:"/com_content/" "supplied argument is not a valid MySQL result"
+inurl:"/com_content/" "Unclosed quotation mark after the character string"
+inurl:"/com_content/" "Microsoft OLE DB Provider for SQL Server"
+inurl:"/com_content/" "Warning: pg_fetch_array()"
+inurl:"/com_content/" "Query failed"
+inurl:"/com_content/" "Call to undefined function"
+inurl:"/com_content/" "unexpected T_STRING"
+inurl:"/com_k2/" "You have an error in your SQL syntax"
+inurl:"/com_k2/" "Warning: mysql_fetch_assoc()"
+inurl:"/com_k2/" "Warning: mysql_num_rows()"
+inurl:"/com_k2/" "supplied argument is not a valid MySQL result"
+inurl:"/com_k2/" "Unclosed quotation mark after the character string"
+inurl:"/com_k2/" "Microsoft OLE DB Provider for SQL Server"
+inurl:"/com_k2/" "Warning: pg_fetch_array()"
+inurl:"/com_k2/" "Query failed"
+inurl:"/com_k2/" "Call to undefined function"
+inurl:"/com_k2/" "unexpected T_STRING"
+inurl:"/drupal/" "You have an error in your SQL syntax"
+inurl:"/drupal/" "Warning: mysql_fetch_assoc()"
+inurl:"/drupal/" "Warning: mysql_num_rows()"
+inurl:"/drupal/" "supplied argument is not a valid MySQL result"
+inurl:"/drupal/" "Unclosed quotation mark after the character string"
+inurl:"/drupal/" "Microsoft OLE DB Provider for SQL Server"
+inurl:"/drupal/" "Warning: pg_fetch_array()"
+inurl:"/drupal/" "Query failed"
+inurl:"/drupal/" "Call to undefined function"
+inurl:"/drupal/" "unexpected T_STRING"
+inurl:"/prestashop/" "You have an error in your SQL syntax"
+inurl:"/prestashop/" "Warning: mysql_fetch_assoc()"
+inurl:"/prestashop/" "Warning: mysql_num_rows()"
+inurl:"/prestashop/" "supplied argument is not a valid MySQL result"
+inurl:"/prestashop/" "Unclosed quotation mark after the character string"
+inurl:"/prestashop/" "Microsoft OLE DB Provider for SQL Server"
+inurl:"/prestashop/" "Warning: pg_fetch_array()"
+inurl:"/prestashop/" "Query failed"
+inurl:"/prestashop/" "Call to undefined function"
+inurl:"/prestashop/" "unexpected T_STRING"
+inurl:"/opencart/" "You have an error in your SQL syntax"
+inurl:"/opencart/" "Warning: mysql_fetch_assoc()"
+inurl:"/opencart/" "Warning: mysql_num_rows()"
+inurl:"/opencart/" "supplied argument is not a valid MySQL result"
+inurl:"/opencart/" "Unclosed quotation mark after the character string"
+inurl:"/opencart/" "Microsoft OLE DB Provider for SQL Server"
+inurl:"/opencart/" "Warning: pg_fetch_array()"
+inurl:"/opencart/" "Query failed"
+inurl:"/opencart/" "Call to undefined function"
+inurl:"/opencart/" "unexpected T_STRING"
+inurl:"/modx/" "You have an error in your SQL syntax"
+inurl:"/modx/" "Warning: mysql_fetch_assoc()"
+inurl:"/modx/" "Warning: mysql_num_rows()"
+inurl:"/modx/" "supplied argument is not a valid MySQL result"
+inurl:"/modx/" "Unclosed quotation mark after the character string"
+inurl:"/modx/" "Microsoft OLE DB Provider for SQL Server"
+inurl:"/modx/" "Warning: pg_fetch_array()"
+inurl:"/modx/" "Query failed"
+inurl:"/modx/" "Call to undefined function"
+inurl:"/modx/" "unexpected T_STRING"
+Indonesian
+inurl:index.php?id= "admin" "login"
+inurl:index.php?id= "dashboard"
+inurl:index.php?id= "username" "password"
+inurl:index.php?id= "select * from"
+inurl:index.php?id= "mysql_fetch_assoc"
+inurl:index.php?id= "Warning"
+inurl:index.php?id= "syntax error"
+inurl:index.php?id= "query failed"
+inurl:index.php?id= "Unclosed quotation mark"
+inurl:index.php?id= "ORA-01756"
+inurl:index.php?id= "sql syntax"
+inurl:index.php?id= "Microsoft OLE DB Provider"
+inurl:index.php?id= "supplied argument"
+inurl:index.php?id= "pg_fetch_array"
+inurl:index.php?id= "unexpected T_STRING"
+inurl:index.php?id= "Call to undefined function"
+inurl:index.php?id= "php error"
+inurl:index.php?id= "Warning: pg_fetch"
+inurl:index.php?id= "mysql_num_rows"
+inurl:index.php?id= "Warning: mysql"
+inurl:index.php?id= "You have an error in your SQL syntax"
+inurl:login.php "admin"
+inurl:admin.php "login"
+inurl:admin "password"
+inurl:dashboard.php "username"
+inurl:dashboard.php "password"
+inurl:"site/login" "error"
+inurl:"admin/login" "error"
+inurl:"login.php?id=" "Warning"
+inurl:"index.php?id=" "mysql_fetch_assoc"
+inurl:"product.php?id=" "syntax error"
+inurl:"page.php?id=" "query failed"
+inurl:"view.php?id=" "Unclosed quotation mark"
+inurl:"item.php?id=" "ORA-01756"
+inurl:"detail.php?id=" "sql syntax"
+inurl:"shop.php?id=" "Microsoft OLE DB Provider"
+inurl:"article.php?id=" "supplied argument"
+inurl:"news.php?id=" "pg_fetch_array"
+inurl:"post.php?id=" "unexpected T_STRING"
+inurl:"read.php?id=" "Call to undefined function"
+inurl:"content.php?id=" "php error"
+inurl:"info.php?id=" "Warning: pg_fetch"
+inurl:"profile.php?id=" "mysql_num_rows"
+inurl:"download.php?id=" "Warning: mysql"
+inurl:"catalog.php?id=" "You have an error in your SQL syntax"
+site:id inurl:index.php?id=
+site:ac.id inurl:index.php?id=
+site:co.id inurl:index.php?id=
+site:go.id inurl:index.php?id=
+site:or.id inurl:index.php?id=
+site:sch.id inurl:index.php?id=
+site:web.id inurl:index.php?id=
+site:gov.id inurl:index.php?id=
+site:mil.id inurl:index.php?id=
+site:biz.id inurl:index.php?id=
+site:ac.id inurl:login.php
+site:ac.id inurl:admin.php
+site:ac.id inurl:dashboard.php
+site:ac.id inurl:product.php?id=
+site:ac.id inurl:view.php?id=
+site:ac.id inurl:page.php?id=
+site:ac.id inurl:item.php?id=
+site:ac.id inurl:detail.php?id=
+site:ac.id inurl:shop.php?id=
+site:ac.id inurl:article.php?id=
+site:ac.id inurl:news.php?id=
+site:ac.id inurl:post.php?id=
+site:ac.id inurl:read.php?id=
+site:ac.id inurl:content.php?id=
+site:ac.id inurl:info.php?id=
+site:ac.id inurl:profile.php?id=
+site:ac.id inurl:download.php?id=
+site:ac.id inurl:catalog.php?id=
+site:ac.id inurl:store.php?id=
+site:ac.id inurl:gallery.php?id=
+site:ac.id inurl:event.php?id=
+site:ac.id inurl:forum.php?id=
+site:ac.id inurl:topic.php?id=
+site:ac.id inurl:thread.php?id=
+site:ac.id inurl:report.php?id=
+site:ac.id inurl:order.php?id=
+site:ac.id inurl:user.php?id=
+site:ac.id inurl:cart.php?id=
+site:ac.id inurl:checkout.php?id=
+site:ac.id inurl:search.php?id=
+site:ac.id inurl:support.php?id=
+site:ac.id inurl:faq.php?id=
+site:ac.id inurl:blog.php?id=
+site:ac.id inurl:review.php?id=
+site:ac.id inurl:service.php?id=
+site:ac.id inurl:download.php?id=
+site:ac.id inurl:media.php?id=
+site:ac.id inurl:video.php?id=
+site:ac.id inurl:photo.php?id=
+site:ac.id inurl:file.php?id=
+site:ac.id inurl:message.php?id=
+site:ac.id inurl:notification.php?id=
+site:ac.id inurl:setting.php?id=
+site:ac.id inurl:account.php?id=
+site:ac.id inurl:admin.php?id=
+site:ac.id inurl:login.php?id=
+site:ac.id inurl:register.php?id=
+site:ac.id inurl:reset.php?id=
+site:ac.id inurl:confirm.php?id=
+site:ac.id inurl:submit.php?id=
+site:ac.id inurl:vote.php?id=
+site:ac.id inurl:comment.php?id=
+site:ac.id inurl:subscribe.php?id=
+site:ac.id inurl:report.php?id=
+site:ac.id inurl:alert.php?id=
+site:ac.id inurl:profile.php?id=
+site:ac.id inurl:dashboard.php?id=
+site:ac.id inurl:panel.php?id=
+site:ac.id inurl:member.php?id=
+site:ac.id inurl:contact.php?id=
+site:ac.id inurl:feedback.php?id=
+site:ac.id inurl:newsletter.php?id=
+site:ac.id inurl:order_detail.php?id=
+site:ac.id inurl:payment.php?id=
+site:ac.id inurl:invoice.php?id=
+site:ac.id inurl:history.php?id=
+site:ac.id inurl:transaction.php?id=
+site:ac.id inurl:tracking.php?id=
+site:ac.id inurl:shipment.php?id=
+site:ac.id inurl:delivery.php?id=
+site:ac.id inurl:sales.php?id=
+site:ac.id inurl:inventory.php?id=
+site:ac.id inurl:stock.php?id=
+site:ac.id inurl:warehouse.php?id=
+site:ac.id inurl:product_detail.php?id=
+site:ac.id inurl:category.php?id=
+site:ac.id inurl:tag.php?id=
+site:ac.id inurl:brand.php?id=
+site:ac.id inurl:faq_detail.php?id=
+site:ac.id inurl:terms.php?id=
+site:ac.id inurl:privacy.php?id=
+site:ac.id inurl:policy.php?id=
+site:ac.id inurl:agreement.php?id=
+site:ac.id inurl:license.php?id=
+site:ac.id inurl:download_file.php?id=
+site:ac.id inurl:attachment.php?id=
+site:ac.id inurl:resource.php?id=
+site:ac.id inurl:library.php?id=
+site:ac.id inurl:document.php?id=
+site:ac.id inurl:manual.php?id=
+site:ac.id inurl:guide.php?id=
+site:ac.id inurl:tutorial.php?id=
+site:ac.id inurl:help.php?id=
+site:ac.id inurl:faq_page.php?id=
+site:ac.id inurl:forum_thread.php?id=
+site:ac.id inurl:forum_post.php?id=
+site:ac.id inurl:blog_post.php?id=
+site:ac.id inurl:news_article.php?id=
+site:ac.id inurl:event_detail.php?id=
+site:ac.id inurl:gallery_image.php?id=
+site:ac.id inurl:media_file.php?id=
+site:ac.id inurl:video_file.php?id=
+site:ac.id inurl:photo_album.php?id?
+random country
+site:.my inurl:index.php?id=
+site:edu.my inurl:index.php?id=
+site:gov.my inurl:index.php?id=
+site:org.my inurl:index.php?id=
+site:.sg inurl:index.php?id=
+site:edu.sg inurl:index.php?id=
+site:gov.sg inurl:index.php?id=
+site:org.sg inurl:index.php?id=
+site:.ph inurl:index.php?id=
+site:edu.ph inurl:index.php?id=
+site:gov.ph inurl:index.php?id=
+site:org.ph inurl:index.php?id=
+site:.th inurl:index.php?id=
+site:ac.th inurl:index.php?id=
+site:go.th inurl:index.php?id=
+site:.vn inurl:index.php?id=
+site:edu.vn inurl:index.php?id=
+site:gov.vn inurl:index.php?id=
+site:.in inurl:index.php?id=
+site:edu.in inurl:index.php?id=
+site:gov.in inurl:index.php?id=
+site:.pk inurl:index.php?id=
+site:edu.pk inurl:index.php?id=
+site:gov.pk inurl:index.php?id=
+site:.bd inurl:index.php?id=
+site:edu.bd inurl:index.php?id=
+site:gov.bd inurl:index.php?id=
+site:.sa inurl:index.php?id=
+site:.ae inurl:index.php?id=
+site:.qa inurl:index.php?id=
+site:.om inurl:index.php?id=
+site:.bh inurl:index.php?id=
+site:.jo inurl:index.php?id=
+site:.de inurl:index.php?id=
+site:.fr inurl:index.php?id=
+site:.it inurl:index.php?id=
+site:.es inurl:index.php?id=
+site:.nl inurl:index.php?id=
+site:.ru inurl:index.php?id=
+site:.edu inurl:index.php?id=
+site:.gov inurl:index.php?id=
+site:.mil inurl:index.php?id=
+site:.us inurl:index.php?id=
+site:.br inurl:index.php?id=
+site:.ar inurl:index.php?id=
+site:.cl inurl:index.php?id=
+site:.co inurl:index.php?id=
+site:.za inurl:index.php?id=
+site:.ng inurl:index.php?id=
+site:.ke inurl:index.php?id=
+site:.gh inurl:index.php?id=
+site:.my inurl=index.php?id=
+site:edu.my inurl=index.php?id=
+site:gov.my inurl=index.php?id=
+site:org.my inurl=index.php?id=
+site:.sg inurl=index.php?id=
+site:edu.sg inurl=index.php?id=
+site:gov.sg inurl=index.php?id=
+site:org.sg inurl=index.php?id=
+site:.ph inurl=index.php?id=
+site:edu.ph inurl=index.php?id=
+site:gov.ph inurl=index.php?id=
+site:org.ph inurl=index.php?id=
+site:.th inurl=index.php?id=
+site:ac.th inurl=index.php?id=
+site:go.th inurl=index.php?id=
+site:.vn inurl=index.php?id=
+site:edu.vn inurl=index.php?id=
+site:gov.vn inurl=index.php?id=
+site:.in inurl=index.php?id=
+site:edu.in inurl=index.php?id=
+site:gov.in inurl=index.php?id=
+site:.pk inurl=index.php?id=
+site:edu.pk inurl=index.php?id=
+site:gov.pk inurl=index.php?id=
+site:.bd inurl=index.php?id=
+site:edu.bd inurl=index.php?id=
+site:gov.bd inurl=index.php?id=
+site:.sa inurl=index.php?id=
+site:.ae inurl=index.php?id=
+site:.qa inurl=index.php?id=
+site:.om inurl=index.php?id=
+site:.bh inurl=index.php?id=
+site:.jo inurl=index.php?id=
+site:.de inurl=index.php?id=
+site:.fr inurl=index.php?id=
+site:.it inurl=index.php?id=
+site:.es inurl=index.php?id=
+site:.nl inurl=index.php?id=
+site:.ru inurl=index.php?id=
+site:.edu inurl=index.php?id=
+site:.gov inurl=index.php?id=
+site:.mil inurl=index.php?id=
+site:.us inurl=index.php?id=
+site:.br inurl=index.php?id=
+site:.ar inurl=index.php?id=
+site:.cl inurl=index.php?id=
+site:.co inurl=index.php?id=
+site:.za inurl=index.php?id=
+site:.ng inurl=index.php?id=
+site:.ke inurl=index.php?id=
+site:.gh inurl=index.php?id=
