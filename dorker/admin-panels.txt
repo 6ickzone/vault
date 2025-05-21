@@ -637,6 +637,13 @@ site:.in inurl:cpanel
 site:edu.in inurl:login.php?action=admin
 site:gov.in inurl:admin_login
 site:.in inurl:admin/index.php
+intitext:"Designed By Crop Net Technology" staff login
+inurl:/admission-form-two.php
+intext:"sign in to start your session" inurl:admin
+inurl:login.php intitle:admin
+"Designed & Developed By | Softpro India Computer Technologies"
+intitle:"Admin Login" inurl:/admin/index.php
+inurl:"/Staff/dashboard.php
 site:edu.in intitle:"Admin Login"
 site:gov.in inurl:manage
 site:.in inurl:controlpanel
