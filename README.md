@@ -12,7 +12,9 @@ This repository contains a collection of useful resources for penetration testin
 
 - `/exploit/`  
   Contains exploits including default admin credentials, SQLi bypass payloads, and other common exploit scripts.
-
+  
+- `/tools/`  
+  Contains functional automation scripts for security testing, such as XSS fuzzers and admin panel discovery tools with integrated WAF delay logic.
 ## Usage
 
 Use these resources responsibly and only on systems you have permission to test. Unauthorized use is illegal and unethical.
